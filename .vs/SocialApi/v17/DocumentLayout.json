@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SocialApi\\SocialApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\viewmodels\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:viewmodels\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\viewmodels\\textdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:viewmodels\\textdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\viewmodels\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:viewmodels\\searchresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\viewmodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:viewmodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\services\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:services\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\services\\authorizecheckoperationfilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:services\\authorizecheckoperationfilter .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:controllers\\photoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\socialapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:socialapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|d:\\socialapi\\socialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17AC5869-F166-4391-B804-19361D7304A7}|SocialApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwDwAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:01:40.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAqwDEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:44:51.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAgwCMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:17:40.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\ViewModels\\Error.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Error.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\ViewModels\\Error.cs",
+              "RelativeToolTip": "ViewModels\\Error.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:19:28.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchResult.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\ViewModels\\SearchResult.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SearchResult.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\ViewModels\\SearchResult.cs",
+              "RelativeToolTip": "ViewModels\\SearchResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:48:33.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextData.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\ViewModels\\TextData.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TextData.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\ViewModels\\TextData.cs",
+              "RelativeToolTip": "ViewModels\\TextData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T21:21:16.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Token.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\ViewModels\\Token.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Token.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\ViewModels\\Token.cs",
+              "RelativeToolTip": "ViewModels\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:25:44.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:06:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Services\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "Services\\DatabaseContext.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Services\\DatabaseContext.cs",
+              "RelativeToolTip": "Services\\DatabaseContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAsAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:14:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:31:53.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizeCheckOperationFilter .cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Services\\AuthorizeCheckOperationFilter .cs",
+              "RelativeDocumentMoniker": "Services\\AuthorizeCheckOperationFilter .cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Services\\AuthorizeCheckOperationFilter .cs",
+              "RelativeToolTip": "Services\\AuthorizeCheckOperationFilter .cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T18:05:06.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostsController.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "Controllers\\PostsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:20:19.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:15:46.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Models\\Comment.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Models\\Comment.cs",
+              "RelativeToolTip": "Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:09:11.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PhotosController.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Controllers\\PhotosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PhotosController.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Controllers\\PhotosController.cs",
+              "RelativeToolTip": "Controllers\\PhotosController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:18:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainController.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Controllers\\MainController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T20:42:52.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "Models\\Photo.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Models\\Photo.cs",
+              "RelativeToolTip": "Models\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:12:21.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SocialApi.csproj",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\SocialApi.csproj",
+              "RelativeDocumentMoniker": "SocialApi.csproj",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\SocialApi.csproj",
+              "RelativeToolTip": "SocialApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-10T13:00:40.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Models\\Post.cs",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\Models\\Post.cs",
+              "RelativeToolTip": "Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:09:00.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\SocialApi\\SocialApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\SocialApi\\SocialApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-10T13:40:29.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SocialApi</name>
+    </assembly>
+    <members>
+        <member name="M:SocialApi.Controllers.AuthController.LogIn(SocialApi.Models.LoginUser)">
+            <summary>
+            Log in and get auth token
+            </summary>
+            <response code = "401" >If wrong login/password pair</response>
+        </member>
+        <member name="M:SocialApi.Controllers.AuthController.SignUp(SocialApi.Models.UserDTO)">
+            <summary>
+            Sign up user and get auth token
+            </summary>
+            <response code = "400" >If username already already taken</response>
+        </member>
+        <member name="M:SocialApi.Controllers.MainController.Feed">
+            <summary>
+            Get posts feed
+            </summary>
+        </member>
+        <member name="M:SocialApi.Controllers.MainController.Feed(System.String)">
+            <summary>
+            Universal search for users, posts and photos
+            </summary>
+        </member>
+        <member name="M:SocialApi.Controllers.UsersController.GetMeAsync">
+            <summary>
+            Get my profile
+            </summary>
+        </member>
+        <member name="M:SocialApi.Controllers.UsersController.UpdateMe(SocialApi.Models.UserDTO)">
+            <summary>
+            Edit my profile
+            </summary>
+            <response code = "200" >Succesfully updated</response>
+        </member>
+        <member name="M:SocialApi.Controllers.UsersController.GetUser(System.Int32)">
+            <summary>
+            Get user profile by id
+            </summary>
+        </member>
+        <member name="M:SocialApi.Controllers.UsersController.GetUser(System.String)">
+            <summary>
+            Get user profile by username
+            </summary>
+        </member>
+    </members>
+</doc>

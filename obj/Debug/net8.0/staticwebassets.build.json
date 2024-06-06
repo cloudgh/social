@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "uyB1zYTxxUDUBrfdL5eC0fR86dTBXz8quDXX2D21b8k=",
+  "Source": "SocialApi",
+  "BasePath": "_content/SocialApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SocialApi\\wwwroot",
+      "Source": "SocialApi",
+      "ContentRoot": "D:\\SocialApi\\SocialApi\\wwwroot\\",
+      "BasePath": "_content/SocialApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
