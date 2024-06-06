@@ -1,0 +1,32 @@
+// $scrollbar-size: 14px;
+// $slider-color: #23231ad2;
+// $track-color: rgba(66, 63, 63, 0.963);
+// $slider-border-color: #161212bb;
+// $border-radius: 7px;
+// // firefox
+// * {
+//     scrollbar-width: thin;
+//     scrollbar-color: $slider-color $track-color;
+// }
+// // other browsers
+// *::-webkit-scrollbar {
+//     height: $scrollbar-size;
+//     width: $scrollbar-size;
+// }
+// // кастомизация фона/пути под ползунком
+// *::-webkit-scrollbar-track {
+//     background: $track-color;
+//     // border-radius: $border-radius;
+// }
+// // кастомизация ползунка
+// *::-webkit-scrollbar-thumb {
+//     background-color: $slider-color;
+//     border-radius: $border-radius;
+//     border: calc($scrollbar-size / 4) solid $slider-border-color;
+//     transition: background-color 0.2s; 
+// }
+
+// *::-webkit-scrollbar-thumb:hover {
+//     background-color: #464646c2; 
+// }
+
